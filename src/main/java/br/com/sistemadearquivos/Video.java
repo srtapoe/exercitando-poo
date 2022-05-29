@@ -7,14 +7,6 @@ public class Video extends Arquivo implements OpcoesDosArquivos{
     public Video(){}
 
     @Override
-    public void guardaArquivo() {
-        if (getTiposDeArquivos() == TiposDeArquivos.MP4 || getTiposDeArquivos() == TiposDeArquivos.AVI){
-            ArrayList<Video> videos = new ArrayList<>();
-            videos.add(new Video());
-        }
-    }
-
-    @Override
     public void mostrarPropriedades() {
         System.out.println("=========PROPRIEDADES======================");
         System.out.println("Nome do Arquivo: " + super.getNome());

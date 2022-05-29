@@ -7,14 +7,6 @@ public class Audio extends Arquivo implements OpcoesDosArquivos{
     public Audio(){};
 
     @Override
-    public void guardaArquivo() {
-        if (getTiposDeArquivos() == TiposDeArquivos.MP3){
-            ArrayList<Audio> audios = new ArrayList<>();
-           audios.add(new Audio());
-        }
-    }
-
-    @Override
     public void mostrarPropriedades() {
         System.out.println("=========PROPRIEDADES======================");
         System.out.println("Nome do Arquivo: " + super.getNome());
