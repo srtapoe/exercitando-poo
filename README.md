@@ -17,5 +17,5 @@
 🥁 Você pode baixar tranquilamente esse repositório e rodar na sua máquina, porque exclui a pasta "ide" do repositório local que é gerada quando crio projetos usando a IDE 
 IntelliJ.
 
-🥁 Para rodar precisa apenas ter a JVM instalada no seu pc e uma IDE que tenha suporte para a Java, como [VsCode](https://code.visualstudio.com/), [Intellij](https://www.jetbrains.com/pt-br/idea/),
+🥁 Para rodar precisa apenas ter a JVM instalada no seu pc e uma IDE que tenha suporte para a Java, como, [VsCode](https://code.visualstudio.com/), [Intellij](https://www.jetbrains.com/pt-br/idea/),
 [Eclipse](https://www.eclipse.org/downloads/), [NetBeans](https://netbeans.apache.org/download/index.html) e outras.
