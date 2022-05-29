@@ -46,5 +46,3 @@ tiver o Lombok na sua IDE, você terá duas opções: Criar os getters e setters
 📔 [Explorando APIS e bibliotecas Java](https://www.amazon.com.br/Explorando-Bibliotecas-Java-Threads-JavaFx/dp/8555190495)
 
 📔 [Java 8 Prático](https://www.amazon.com.br/Java-Pr%C3%A1tico-Lambdas-recursos-linguagem-ebook/dp/B00VAB1VP6)
-
-📔
