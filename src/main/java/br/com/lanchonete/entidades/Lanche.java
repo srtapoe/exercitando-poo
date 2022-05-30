@@ -15,4 +15,13 @@ public class Lanche extends LancheGeral {
     private TipoMolhoLanche tipoMolhoLanche;
     private TipoDeRecheioLanche tipoDeRecheioLanche;
 
+
+    @Override
+    public String toString() {
+        return "Lanche{" +
+                "\nTipo de Pão: " + tipoDePao +
+                "\n Tipo de Molho: " + tipoMolhoLanche +
+                "\n Recheio: " + tipoDeRecheioLanche +
+                '}';
+    }
 }

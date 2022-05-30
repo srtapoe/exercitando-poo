@@ -15,4 +15,13 @@ public class Salgado extends LancheGeral {
     private TipoSalgado tipoSalgado;
     private TipoDeMASSA tipoDeMASSA;
     private TipoDeRecheioLanche tipoDeRecheio;
+
+    @Override
+    public String toString() {
+        return "Salgado{" +
+                "\n Tipo de Salgo: " + tipoSalgado +
+                "\nMassa: " + tipoDeMASSA +
+                "\nRecheio: " + tipoDeRecheio +
+                '}';
+    }
 }

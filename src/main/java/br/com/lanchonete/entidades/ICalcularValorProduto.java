@@ -2,5 +2,11 @@ package br.com.lanchonete.entidades;
 
 public interface ICalcularValorProduto {
 
-    void calcularValorProduto();
+    double somarItensConsumidos();
+
+    double calcularTaxaDeServico(double somaItensPedidos);
+
+    double calcularTroco();
+
+    void mostrarNotaFiscal();
 }

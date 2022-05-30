@@ -60,4 +60,13 @@ public class Pizza extends LancheGeral {
 
     }
 
+    @Override
+    public String toString() {
+        return "Pizza{" +
+                "\nTipo de Borda: " + tipoDeBordaPizza +
+                "\nQuer molho? " + querMolho +
+                "\nRecheio da Pizza: " + tipoDeRecheioPizza +
+                "Molho: " + tipoMolhoPizza +
+                '}';
+    }
 }
