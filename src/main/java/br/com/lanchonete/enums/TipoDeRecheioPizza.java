@@ -1,0 +1,5 @@
+package br.com.lanchonete.enums;
+
+public enum TipoDeRecheioPizza {
+    MARGUERITA, MUSSARELA, CALABRESA, PEPPERONI,PORTUGUESSA, QUATRO_QUEIJOS, FRANGO_CATUPIRY,NAPOLITANA;
+}
