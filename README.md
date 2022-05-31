@@ -56,6 +56,16 @@ Para o seu cliente, é imprescindivel que o sistema tenha algumas funções. O d
 
 ☢️ Minha solução coloquei Enums, porque achei mais fácil do que ter que escrever N opções para cada item. Optei também por uso de interface nos pedidos. A solução tem alguns bugs, como no menu que está saltando a opção do nome do cliente, assim como a da opção do Molho da Pizza que fiz um menu a parte e para isso terei que refazer ambos os menus. Refatorarei em breve para diminuir a alta complexidade e integrar o JavaX no sisteminha para ter uma interface mais amigável.
 
+## 🏁🏁🏁🏁🏁🏁 Desafios Técnicos que encontrei pela net 🏁🏁🏁🏁🏁🏁
+
+#### ✅ [Questão 1](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/desafiostecnicos/registrocolaboradores) e [Questão 2](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/desafiostecnicos/menu)
+
+![gft-1](https://user-images.githubusercontent.com/40921734/171189006-6d73ba91-3e6c-48a6-b945-1579192c8d7d.png)
+
+#### ✅ [Questão 3](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/desafiostecnicos/entrega) e [Questão 4](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/desafiostecnicos/desconto)
+
+![gft-3](https://user-images.githubusercontent.com/40921734/171189334-f973ba8c-c440-4026-a829-b80945c0d502.png)
+
 
 ### 🎓 Material de Apoio:
 
