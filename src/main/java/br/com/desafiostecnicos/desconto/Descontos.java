@@ -8,7 +8,7 @@ public class Descontos {
 
         System.out.println("=======TABELA DE DESCONTOS=======");
         double valorInicial = 200;
-        double desconto = 1;
+        double desconto = 0;
 
         while(i<=20){
 
