@@ -44,7 +44,7 @@ tiver o Lombok na sua IDE, você terá duas opções: Criar os getters e setters
 Desafio | Enunciado | Minha Solução
 ------- | --------- | ------------ |
 Calculadora | [Construindo uma Calculadora](https://www.computersciencemaster.com.br/exercicio-calculadora/) | [Calculadora.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/calculadora)   |
-Construtor | [Construtores](https://www.computersciencemaster.com.br/exercicios-construtores-e-sobrecarga/)  | [Package Construtores]   |
+Construtor | [Construtores](https://www.computersciencemaster.com.br/exercicios-construtores-e-sobrecarga/)  | [Package Construtores](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/construtores)  |
 Lanchonete | [Sistema de Lanchonete](https://www.computersciencemaster.com.br/exercicio-sistema-de-lanchonete/) | [Package Lanchonete](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/lanchonete)    |
 Polimorfismo | [Polimorfismo](https://www.computersciencemaster.com.br/exercicios-polimorfismo/) | [Package Polimorfismo]   |
 GRáfica | [Gerenciando pedidos de uma gráfica](https://www.computersciencemaster.com.br/exercicio-sistema-de-gerenciamento-de-pedidos-grafica/) | [Package Gráfica] |
