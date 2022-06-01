@@ -22,7 +22,7 @@ public class Opcoes {
 
             if (opcao == 3) {
                 System.out.print("Até logo!");
-                menu.close();
+                break;
             }
 
 
