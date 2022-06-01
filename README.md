@@ -35,26 +35,21 @@ tiver o Lombok na sua IDE, você terá duas opções: Criar os getters e setters
 🥁 No Eclipse você instalar o Lombok dessa maneira --> [Instalando Lombok no Eclipse](https://dicasdejava.com.br/como-configurar-o-lombok-no-eclipse/). No Intellij você instala dessa forma --> [Instalando Lombok no Intellij](https://dicasdejava.com.br/como-configurar-o-lombok-no-intellij-idea/)
 
 
-### ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ Desafio Lanchonete Quase Três Lanches ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+### ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ Desafios de Programação ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠
 
-☑️ Estava procurando exercícios com especificações já definidas pela internet e achei alguns desafios de POO no site [Computer Science](https://www.computersciencemaster.com.br/exercicios/) e resolvi fazer o desafio Lanchonete Quase Três Lanches.
+#### 🎙️ Fonte dos Desafios: [Computer Science Master](https://www.computersciencemaster.com.br/exercicios/) 
 
-#### 📢 Descrição: 
-A lanchonete “Quase Três Lanches” está em fase de crescimento em seu delivery e atendimento e pretende expandir seu funcionamento. Porém, os donos sempre operaram utilizando planilhas do Excel e ferramentas bastante simples, sendo assim, nenhum sistema personalizado foi criado e você pretende automatizar o trabalho desse estabelecimento. Na entrevista com os donos do estabelecimento você começou a questioná-los sobre o funcionamento do estabelecimento. Alguns detalhes foram surgindo durante a conversa:
+### 🔑 Programação Orientada a Objetos
 
-1. A lanchonete possui 3 principais itens de venda: pizzas, lanches e salgadinhos. Inicialmente, o sistema será testado para controlar as vendas desses 3 itens apenas.
-2. Todos os itens vendidos devem conter: **preço de venda, data de validade e peso.**
-3. O sistema da nossa lanchonete deverá criar um pedido, esse pedido será composto pelo nome do cliente, itens que foram consumidos e taxa de serviço.
-4. O sistema deve permitir gerar a nota fiscal para entregar ao cliente.
-5. O vendedor poderá inserir o valor recebido em dinheiro e o sistema calcula e mostra o troco do cliente na tela.
+Desafio | Enunciado | Minha Solução
+------- | --------- | ------------ |
+Calculadora | [Construindo uma Calculadora](https://www.computersciencemaster.com.br/exercicio-calculadora/) | [Calculadora.java](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/calculadora)   |
+Construtor | [Construtores](https://www.computersciencemaster.com.br/exercicios-construtores-e-sobrecarga/)  | [Package Construtores]   |
+Lanchonete | [Sistema de Lanchonete](https://www.computersciencemaster.com.br/exercicio-sistema-de-lanchonete/) | [Package Lanchonete](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/lanchonete)    |
+Polimorfismo | [Polimorfismo](https://www.computersciencemaster.com.br/exercicios-polimorfismo/) | [Package Polimorfismo]   |
+GRáfica | [Gerenciando pedidos de uma gráfica](https://www.computersciencemaster.com.br/exercicio-sistema-de-gerenciamento-de-pedidos-grafica/) | [Package Gráfica] |
 
-Para o seu cliente, é imprescindivel que o sistema tenha algumas funções. O dono descreveu essas funções dizendo:   “Gostaríamos de oferecer em nosso cardápio virtual, pizzas com diferentes recheios bordas e molhos. Também queremos oferecer opções para o cliente escolher qual o tipo de recheio, bordas recheadas ou não e o molho que vai ser usado.”   “Os pedidos de lanches precisam conter algumas informações essenciais, são elas: tipo do pão, recheio e molhos obrigatoriamente.”    “Os salgadinhos possuem grande saída, queremos controlar sua venda. Gostariamos que os pedidos contivessem: o tipo (frito ou assado), massa e recheio.”
 
-### 💡💡💡💡💡💡💡💡 Minha Resolução 💡💡💡💡💡💡💡
-
-🏷️ [Minha Solução](https://github.com/srtapoe/exercitando-poo/tree/master/src/main/java/br/com/lanchonete)
-
-☢️ Minha solução coloquei Enums, porque achei mais fácil do que ter que escrever N opções para cada item. Optei também por uso de interface nos pedidos. A solução tem alguns bugs, como no menu que está saltando a opção do nome do cliente, assim como a da opção do Molho da Pizza que fiz um menu a parte e para isso terei que refazer ambos os menus. Refatorarei em breve para diminuir a alta complexidade e integrar o JavaX no sisteminha para ter uma interface mais amigável.
 
 ## 🏁🏁🏁🏁🏁🏁 Desafios Técnicos que encontrei pela net 🏁🏁🏁🏁🏁🏁
 
